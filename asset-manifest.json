@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/React-Mode-Change/static/css/main.992ea004.css",
-    "main.js": "/React-Mode-Change/static/js/main.c7e4be64.js",
-    "static/media/ingressive.PNG": "/React-Mode-Change/static/media/ingressive.f168355f86c33c85e570.PNG",
-    "static/media/hng.PNG": "/React-Mode-Change/static/media/hng.f12d41644480503a654a.PNG",
-    "static/media/profile.PNG": "/React-Mode-Change/static/media/profile.0c7aafa52f48ceee904b.PNG",
-    "static/media/zuri.PNG": "/React-Mode-Change/static/media/zuri.41a13fa55d9ed40f8533.PNG",
-    "static/media/github.PNG": "/React-Mode-Change/static/media/github.cdc689b1258aa177deec.PNG",
-    "static/media/slack.PNG": "/React-Mode-Change/static/media/slack.9f3a88b5efd690aec322.PNG",
-    "static/media/arrow.PNG": "/React-Mode-Change/static/media/arrow.5af8dfa35cb2fe3f6ba9.PNG",
-    "index.html": "/React-Mode-Change/index.html",
-    "main.992ea004.css.map": "/React-Mode-Change/static/css/main.992ea004.css.map",
-    "main.c7e4be64.js.map": "/React-Mode-Change/static/js/main.c7e4be64.js.map"
+    "main.css": "/HNG_project/static/css/main.992ea004.css",
+    "main.js": "/HNG_project/static/js/main.c7e4be64.js",
+    "static/media/ingressive.PNG": "/HNG_project/static/media/ingressive.f168355f86c33c85e570.PNG",
+    "static/media/hng.PNG": "/HNG_project/static/media/hng.f12d41644480503a654a.PNG",
+    "static/media/profile.PNG": "/HNG_project/static/media/profile.0c7aafa52f48ceee904b.PNG",
+    "static/media/zuri.PNG": "/HNG_project/static/media/zuri.41a13fa55d9ed40f8533.PNG",
+    "static/media/github.PNG": "/HNG_project/static/media/github.cdc689b1258aa177deec.PNG",
+    "static/media/slack.PNG": "/HNG_project/static/media/slack.9f3a88b5efd690aec322.PNG",
+    "static/media/arrow.PNG": "/HNG_project/static/media/arrow.5af8dfa35cb2fe3f6ba9.PNG",
+    "index.html": "/HNG_project/index.html",
+    "main.992ea004.css.map": "/HNG_project/static/css/main.992ea004.css.map",
+    "main.c7e4be64.js.map": "/HNG_project/static/js/main.c7e4be64.js.map"
   },
   "entrypoints": [
     "static/css/main.992ea004.css",
